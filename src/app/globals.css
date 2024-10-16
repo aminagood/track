@@ -1,0 +1,22 @@
+
+
+
+
+    .container{
+        max-width: 400px;
+        min-height: 450px;
+        margin: auto;
+        /* background-color: rgb(236, 236, 233); */
+        background-color: #e0e6e2;
+        
+        
+        box-shadow: 0 0  10px rgb(145, 141, 129);
+        margin-top: 50px;
+        padding: 15px 50px;
+        
+       }
+ 
+
+
+
+
